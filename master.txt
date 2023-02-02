@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi iam neeraj. 
 Today is wednesday
+=======
+>>>>>>> parent of 9957449 (added content in master file)
